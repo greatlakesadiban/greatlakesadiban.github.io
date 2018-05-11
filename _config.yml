@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Great Lakes Adiban Society
+# title: Great Lakes Adiban Society
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Great Lakes Adiban Society is a regional forum for scholars of Islamicate adab, particularly of the medieval and early modern periods.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://greatlakesadiban.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
