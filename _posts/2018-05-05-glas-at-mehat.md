@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GLAS at MEHAT"
-date:   2018-05-15 12:00:00 -0400
+date:   2018-05-05 12:00:00 -0400
 categories: conference
 ---
 
