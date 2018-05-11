@@ -16,7 +16,7 @@
 title: Great Lakes Adiban Society
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Great Lakes Adiban Society is a regional forum for scholars of Islamicate *adab*, particularly of the medieval and early modern periods.
+  The Great Lakes Adiban Society is a regional forum for scholars of Islamicate adab, particularly of the medieval and early modern periods.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
