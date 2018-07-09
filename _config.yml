@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Great Lakes Adiban Society
-email: glas@lists.uchicago.edu
+email: https://lists.uchicago.edu/web/info/glas
 description: >- # this means to ignore newlines until "baseurl:"
-  The Great Lakes Adiban Society is a newly-founded organization intended to provide a regional forum for scholars of Islamicate *adab*, particularly of the medieval and early modern periods. To join our group, go to [https://lists.uchicago.edu/web/info/glas](https://lists.uchicago.edu/web/info/glas)
+  The Great Lakes Adiban Society is a newly-founded organization intended to provide a regional forum for scholars of Islamicate adab, particularly of the medieval and early modern periods. To join our group, go to https://lists.uchicago.edu/web/info/glas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://greatlakesadiban.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
