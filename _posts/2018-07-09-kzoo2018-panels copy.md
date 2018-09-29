@@ -10,6 +10,8 @@ We are pleased to announce the schedule for the 2018 Great Lakes Adiban Workshop
 **Time**: Saturday--Sunday, October 5--6, 9:30am--5:00pm  
 **Location**: 3rd Floor Lecture Hall / Swift Hall, 1025 E 58th St, Chicago, IL 60637
 
+## Program Schedule
+
 ### Saturday, Oct. 5
 
 9:30--10:10 / Kaveh Hemmat (Benedictine U) - China in the Iranian Epic Tradition (1000-1500): Cultural Geography and the Concept of *Adab*  
@@ -43,3 +45,5 @@ Coffee Break
 2:45--3:25 / Alexandra Hoffmann (U of Chicago) - Cross-dressing in *Samak-e Ayyar*  
 3:30--3:50 / Samuel Lasman (U of Chicago) - In the Maw of the *Nahang*: Sea Monsters and Subjectivity in Classical Persian Epic  
 4:15--4:55 / Open discussion, matters arising, future plans  
+
+A huge round of thanks to Alexandra Hoffmann, Samuel Lasman, Allison Kanner, and the Center for Middle Eastern Studies at the University of Chicago for making this possible!
