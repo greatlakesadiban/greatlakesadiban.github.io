@@ -7,12 +7,12 @@ categories: workshop
 
 We are pleased to announce the schedule for the 2018 Great Lakes Adiban Workshop! The workshop is **free** and **open** to all. 
 
-**Time**: Saturday--Sunday, October 5--6, 9:30am--5:00pm  
+**Time**: Saturday--Sunday, October 6--7, 9:30am--5:00pm  
 **Location**: 3rd Floor Lecture Hall / Swift Hall, 1025 E 58th St, Chicago, IL 60637
 
 ## Program Schedule
 
-### Saturday, Oct. 5
+### Saturday, Oct. 6
 
 9:30--10:10 / Kaveh Hemmat (Benedictine U) - China in the Iranian Epic Tradition (1000-1500): Cultural Geography and the Concept of *Adab*  
 10:15--10:55 / Aria Fani (U of California, Berkeley) - What is *Adabiyat*? The Genealogy of a Discourse of Literature (1860-1960)  
@@ -29,7 +29,7 @@ Coffee Break
 3:30--4:10 / Pouye Khoshkhoosani (Northwestern U) - Shi‘ism and Kingship in Safavid Court Poetry  
 4:15--4:55 / Zahra Sabri (McGill U) - Three Shi‘a Poets: Sect-related Themes in Pre-modern Urdu Poetry  
 
-### Sunday, Oct. 6
+### Sunday, Oct. 7
 
 9:30--10:10 / Cameron Cross (U of Michigan, Ann Arbor) - “I Know It When I See It”: Towards a Theory of the Romance Genre  
 10:15--10:55 / Rachel Schine (U of Chicago) - Nourishing the Noble: A Tale of Breastfeeding and Hero-Making in Arabic Popular Literature  
