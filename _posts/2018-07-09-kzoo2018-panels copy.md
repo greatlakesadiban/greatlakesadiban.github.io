@@ -8,7 +8,7 @@ categories: workshop
 We are pleased to announce the schedule for the 2018 Great Lakes Adiban Workshop! The workshop is **free** and **open** to all. 
 
 **Time**: Saturday--Sunday, October 5--6, 9:30am--5:00pm  
-**Location**: 3^rd^ Floor Lecture Hall / Swift Hall, 1025 E 58th St, Chicago, IL 60637
+**Location**: 3rd Floor Lecture Hall / Swift Hall, 1025 E 58th St, Chicago, IL 60637
 
 ### Saturday, Oct. 5
 
