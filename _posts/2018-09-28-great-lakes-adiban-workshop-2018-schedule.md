@@ -5,7 +5,7 @@ date:   2018-09-28 12:00:00 -0400
 categories: workshop
 ---
 
-We are pleased to announce the schedule for the 2018 Great Lakes Adiban Workshop! The workshop is **free** and **open** to all. 
+We are pleased to announce the schedule for the 2018 Great Lakes Adiban Workshop! The workshop is free and open to all. 
 
 **Time**: Saturday--Sunday, October 6--7, 9:30am--5:00pm  
 **Location**: 3rd Floor Lecture Hall / Swift Hall, 1025 E 58th St, Chicago, IL 60637
@@ -42,8 +42,8 @@ Lunch Break
 
 Coffee Break
 
-2:45--3:25 / Alexandra Hoffmann (U of Chicago) - Cross-dressing in *Samak-e Ayyar*  
+2:45--3:25 / Alexandra Hoffmann (U of Chicago) - Cross-dressing in *Samak-e ʿAyyār*  
 3:30--3:50 / Samuel Lasman (U of Chicago) - In the Maw of the *Nahang*: Sea Monsters and Subjectivity in Classical Persian Epic  
 4:15--4:55 / Open discussion, matters arising, future plans  
 
-A huge round of thanks to Alexandra Hoffmann, Samuel Lasman, Allison Kanner, and the Center for Middle Eastern Studies at the University of Chicago for making this possible!
+This event was made possible through the generous support of the Center for Middle Eastern Studies, the Department of Comparative Literature, the Martin Marty Center, the Committee on Southern Asian Studies, and the Graduate Council at the University of Chicago. A huge round of thanks to Alexandra Hoffmann, Samuel Lasman, and Allison Kanner for all their hard work managing logistics, food, and fund-raising!
