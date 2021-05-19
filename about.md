@@ -10,7 +10,21 @@ The Great Lakes Adiban Society is an informal academic organization intended to 
 
 ## Activities to Date
 
-Since our founding in the summer of 2016, we have sponsored two panels at the International Congress on Medieval Studies at Western Michigan University (WMU) in Kalamazoo, MI, 2017 and this year. On September 30, 2017, we held our first regional workshop at WMU. This event was supported through WMU’s Department of Education-funded Undergraduate International Studies and Foreign Language Grant. There, we fostered intercollegiate connections between scholars from six different institutions whose research and teaching focuses on Turkish, Arabic, Persian, Urdu, Hindi, Uzbek, and Russian literatures. Group members agreed to hold further meetings on an annual basis, bringing in scholars whose work addresses the literary texts, cultures, and ideas circulated from the Balkans to Bengal. By framing participants’ research and teaching according to this geographical unit, the group aims to connect literary traditions across South Asia, Southeast Asia, the Middle East, the Iranian plateau, and Central Asia. 
+Since our founding in the summer of 2016, we have sponsored annual panels at the [International Congress on Medieval Studies](https://wmich.edu/medievalcongress) in Kalamazoo, Michigan, and have also convened an annual workshop at various universities in the Great Lakes region. You can find the more detailed information about these events by finding their announcements on our main page.
+
+Sponsored panels at the [ICMS](https://wmich.edu/medievalcongress):
+
+- 2017: (Dis)Played and (Dis)Covered: Constructing Gender in Persianate Literature; The Truthful Lie: Fiction and Fictionality in Medieval Persian Literature
+- 2018: Jinn, Dragons, and Divs: Supernatural Beings in Medieval Islamicate Literatures; Jahān-sāzī: Text, Space, and Place in Medieval Islamicate Literary Worlds
+- 2019: Inscribed Bodies, Etched Surfaces: The Written and Unwritten in the Medieval Islamicate World; Fifty Shades of Green: The Islamicate Art of Seduction
+- 2021: Love, Fear, Anger, Sorrow: Emotions and Diseases of the Soul in Islamicate Literature (I and II)
+
+Regional workshops:
+
+- 2017: Western Michigan University (September 30)
+- 2018: University of Chicago (October 6--7)
+- 2019: Indiana University Bloomington (September 28--29)
+- 2020: Online (September 5--6)
 
 ## Get Involved
 
