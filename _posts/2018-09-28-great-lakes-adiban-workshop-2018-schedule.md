@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GLAS Workshop 2018, Chicago"
+title:  "Second Annual Workshop, Chicago 2018"
 date:   2018-09-28 12:00:00 -0400
 categories: workshop
 ---
