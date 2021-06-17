@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GLAS at MEHAT"
+title:  "GLAS at MEHAT, Chicago 2018"
 date:   2018-05-05 12:00:00 -0400
 categories: conference
 ---

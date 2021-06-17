@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Great Lakes Adiban Workshop 2018 Schedule"
+title:  "GLAS Workshop 2018, Chicago"
 date:   2018-09-28 12:00:00 -0400
 categories: workshop
 ---
